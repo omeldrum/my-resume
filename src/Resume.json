@@ -1,94 +1,182 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Oriana Meldrum",
+    "label": "Data Science Student",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "email": "omeldrum@colostate.edu",
+    "website": "http://omeldrum.com",
+    "summary": " ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Fort Collins",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
-    }]
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "omeldrum",
+        "url": "https://www.linkedin.com/in/oriana-meldrum-598a25171/"
+      }
+    ]
   },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "name": "English",
-    "level": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
-
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "area": "Data Science, Statistics Concentration",
+      "studyType": "Bachelor",
+      "startDate": "2019-05-25",
+      "endDate": "2021-12-17",
+      "gpa": "3.0",
+      "courses": [
+        "DSCI 336 - Data Graphics and Visualization",
+        "DSCI 445 - Statistical Machine Learning",
+        "STAT 342 - Statistical Data Analysis",
+        "STAT 400 - Statistical Computing",
+        "MATH 331 - Introduction to Mathematical Modeling"
+      ]
+    },
+    {
+      "institution": "Colorado State University",
+      "area": "Health and Exercise Science",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2017-05-01",
+      "gpa": "3.2",
+      "courses": [
+        "Concentration in Sports Medicine",
+        "Minor in Gerontology"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Colorado State University Pandemic Preparedness Team",
+      "position": "Data Science Intern",
+      "website": "https://covid.colostate.edu/",
+      "startDate": "2021-04-01",
+      "endDate": "2021-09-01",
+      "summary": "Assist Data Modeling Team, Regulatory and HIPAA compliance, Data Warehousing, Data visualization, Data cleaning ",
+      "highlights": [
+        "Provide deliverables for a wide variety of technical understandings, ranging from general public to COVID researchers to Data Science professionals",
+        "Ensure HIPAA compliance for all outgoing research datasets, with upwards of 40,000 individuals",
+        "Model COVID cases for a variety of scenarios for decision making teams"
+      ]
+    },
+    {
+      "company": "Colorado State University",
+      "position": "Student Manager",
+      "website": "http://www.bookstore.colostate.edu/",
+      "startDate": "2019-05-01",
+      "endDate": "2021-10-08",
+      "summary": "Oversee and coordinate activities between four departments, assisting in over $12 million dollars in sales. Handled training, personal management, and oversaw day to day activties as well as special busy season tasks",
+      "highlights": [
+        "Scheduling for 100 + individuals",
+        "Re-organization of delivery system from numerical to alphabetical after system failure",
+        "Provide one on one yearly performance reviews",
+        "Key holder and end point contact on $100,000 sale days"
+      ]
+    },
+    {
+      "company": "Quiet Dog Orthotics",
+      "position": "Pedorthist",
+      "website": "http://www.quietdogorthotics.com/",
+      "startDate": "2017-05-01",
+      "endDate": "2019-05-01",
+      "summary": "Manufactured custom medical devices and preformed health office administration",
+      "highlights": [
+        "Served as the main patient point of contact",
+        "Responsible for practice HIPAA compliance",
+        "Routinely managed the entirety of the business, on short notice"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The 4th Paradigm",
+      "position": "Leadership",
+      "website": "http://www.the4thparadigm.com/home.html",
+      "startDate": "2020-04-18",
+      "endDate": "Present",
+      "summary": "Responsible for outreach to potential new members",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "Alpha Phi Omega Section C-1",
+      "position": "History Chair",
+      "website": "https://www.apoonline.org/section30/",
+      "startDate": "2017-05-25",
+      "endDate": "Present",
+      "summary": "Responsible for maintaining section history and advising five chapter historians",
+      "highlights": [
+        "Distinguished Service Key - Highest Chapter level distinction",
+        "Section Notable Alumni - One of three in the past five years"
+      ]
+    },
+    {
+      "organization": "Alpha Sigma Kappa ",
+      "position": "Member",
+      "website": "https://www.alphasigmakappatheta.com",
+      "startDate": "2021-02-25",
+      "endDate": "Present",
+      "summary": "Women in Technical Studies",
+      "highlights": [
+        "Alpha Sigma Kappa - Women in Technical Studies® is a unique social sorority for women pursuing technical majors. As a sorority, we offer women the opportunity to develop leadership skills, friendships, a sense of belonging, and a network of support."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Distinguished Service Key",
+      "date": "2017-05-04",
+      "awarder": "Alpha Phi Omega: Epsilon Xi",
+      "summary": "The Chapter Distinguished Service Key is a chapter's highest level of distinction. The awards is given in recognition to brothers for outstanding service to their chapter; that is making an outstanding and unique contribution to the chapter as a whole, exemplifying and furthering the principals of Leadership, Friendship, and Service."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "R",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
 }

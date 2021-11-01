@@ -6,8 +6,7 @@ import Work from './Work'
 import Education from './Education'
 import Skills from './Skills'
 import Volunteer from './Volunteer'
-import Publications from "./Publications";
-import Awards from "./Awards";
+import Awards from './Awards'
 
 class App extends Component {
     render() {
@@ -17,7 +16,7 @@ class App extends Component {
                 <Basics items={Resume.basics}/>
                 <div className="container">
                     <div className="col-12">
-                        <Work items={Resume.work}/>
+                        <Education items={Resume.education}/>
                     </div>
                     <br/>
                     <div className="col-12">
@@ -25,7 +24,7 @@ class App extends Component {
                     </div>
                     <br/>
                     <div className="col-12">
-                        <Education items={Resume.education}/>
+                        <Work items={Resume.work}/>
                     </div>
                     <br/>
                     <div className="col-12">
@@ -33,12 +32,9 @@ class App extends Component {
                     </div>
                     <br/>
                     <div className="col-12">
-                        <Publications items={Resume.publications}/>
-                    </div>
-                    <br/>
-                    <div className="col-12">
                         <Awards items={Resume.awards}/>
                     </div>
+                    <br/>
                 </div>
             </div>
         );
