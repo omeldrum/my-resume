@@ -13,3 +13,9 @@ ul {
 hr {
   margin: 0 0 0 0;
 }
+
+@media print {
+  div {
+    break-inside: avoid;
+  }
+}
