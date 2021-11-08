@@ -55,7 +55,7 @@
       "website": "https://covid.colostate.edu/",
       "startDate": "2021-04-01",
       "endDate": "2021-09-01",
-      "summary": "Assist Data Modeling Team, Regulatory and HIPAA compliance, Data Warehousing, Data visualization, Data cleaning ",
+      "summary": "Assist Data Modeling Team, Regulatory and HIPAA compliance, Data Warehousing, Data visualization, Data cleaning, Database ETL",
       "highlights": [
         "Provide deliverables for a wide variety of technical understandings, ranging from general public to COVID researchers to Data Science professionals",
         "Ensure HIPAA compliance for all outgoing research datasets, with upwards of 40,000 individuals",
@@ -99,7 +99,6 @@
       "endDate": "Present",
       "summary": "Responsible for outreach to potential new members",
       "highlights": [
-        ""
       ]
     },
     {
